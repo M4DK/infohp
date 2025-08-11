@@ -1,7 +1,5 @@
 # Script Info HP
 
-![Tampilan Script](https://i.ibb.co/L5YwLgK/IMG-20250811-125026.png)
-
 Ini adalah skrip Python sederhana yang dirancang untuk platform Termux di Android. Skrip ini berfungsi untuk menampilkan berbagai informasi penting mengenai perangkat, seperti detail CPU, penggunaan RAM, status baterai, dan informasi jaringan.
 
 ## Fitur Utama
